@@ -1,0 +1,6 @@
+192.168.33.10 cyy1.itri.com cyy1
+192.168.33.11 cyy2.itri.com cyy2
+192.168.33.12 cyy2.itri.com cyy3
+192.168.33.13 cyy2.itri.com cyy4
+127.0.0.1   localhost localhost.localdomain localhost4 localhost4.localdomain4
+::1         localhost localhost.localdomain localhost6 localhost6.localdomain6
